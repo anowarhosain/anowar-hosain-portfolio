@@ -48,7 +48,7 @@ const Hero = () => {
           transition={{ delay: 0.3, duration: 0.5 }}
           className="text-2xl md:text-3xl font-semibold text-slate-300 mb-6"
         >
-          Computer Science Undergraduate <span className="text-blue-500 hidden md:inline">|</span><span className="block md:hidden"></span> Full Stack Developer
+          Computer Science Undergraduate
         </motion.h2>
 
         {/* Animated Tagline */}
